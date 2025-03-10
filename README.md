@@ -11,8 +11,9 @@
 📚 Studying Data Structures & Algorithms to improve problem-solving skills 🔢
 🤖 Looking to transition into Machine Learning & AI 🧠
 
-</br>
-- how to reach me 
-[https://www.linkedin.com/in/sathes-kanth-1718ss]
+🛠️ Tech Stack & Tools
+💻 Languages: <img="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> | Python 🐍 | HTML & CSS 🎨
+⚡ Frameworks & Libraries: Spring Boot 🌱 | Bootstrap 🎭
+🛠️ Tools: Git & GitHub 🐙 | VS Code 🖥️
 
 
