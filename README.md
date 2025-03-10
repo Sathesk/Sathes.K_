@@ -5,10 +5,14 @@
 
 
 🌟 About Me
-- 💻 I'm currently learning Java & Spring Boot
-- I'm currently exploring Web Development
-- I'm currently learning Data Structure & Algorithm
-- I'm looking to enter into ML/AI
-  
+
+💻 Currently learning Java & Spring Boot 🚀
+🌐 Exploring Web Development and building projects 🎨
+📚 Studying Data Structures & Algorithms to improve problem-solving skills 🔢
+🤖 Looking to transition into Machine Learning & AI 🧠
+
+</br>
+- how to reach me 
+[https://www.linkedin.com/in/sathes-kanth-1718ss]
 
 
