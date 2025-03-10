@@ -12,8 +12,9 @@
 🤖 Looking to transition into Machine Learning & AI 🧠
 
 🛠️ Tech Stack & Tools
-💻 Languages: <img="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> | Python 🐍 | HTML & CSS 🎨
-⚡ Frameworks & Libraries: Spring Boot 🌱 | Bootstrap 🎭
-🛠️ Tools: Git & GitHub 🐙 | VS Code 🖥️
+💻 Languages: Java ☕ | Python 🐍 | JavaScript ⚡ | HTML & CSS 🎨
+⚡ Frameworks & Libraries: Spring Boot 🌱 | React.js ⚛️ | Node.js 🟢 | Bootstrap 🎭
+🛢️ Databases: MongoDB 🍃 | MySQL 🐬
+🛠️ Tools: Git & GitHub 🐙 | VS Code 🖥️ | IntelliJ IDEA 🔥
 
 
